@@ -1,0 +1,113 @@
+{
+    "m_SelectedDeviceId": "4e177291",
+    "m_SelectedPackage": {
+        "deviceId": "4e177291",
+        "name": "com.GMind.GMindMultiplication",
+        "processId": 22033,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 7239,
+            "exited": true
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 10302,
+            "exited": true
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.android.settings",
+            "processId": 11999,
+            "exited": false
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 13760,
+            "exited": false
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 18310,
+            "exited": false
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 19126,
+            "exited": false
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 21294,
+            "exited": false
+        },
+        {
+            "deviceId": "4e177291",
+            "name": "com.GMind.GMindMultiplication",
+            "processId": 22033,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
